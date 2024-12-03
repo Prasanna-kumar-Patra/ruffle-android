@@ -1,0 +1,1332 @@
+droid % cat ~/.zsh_history
+npm install -g electron-spawn
+clear
+npm install -g electron-spawn
+nvm use 14
+npm install -g electron-spawn
+npm i
+npm start
+npm start
+cd examples
+node stream.js
+cd ..
+node stream.js
+node examples/stream.js
+clear
+npm start
+npm start
+npm start
+npm start
+npm start
+npm start
+npm i util
+npm start
+npm start
+npm i
+npm start
+npm start
+npm start
+npm start
+npm start
+npm i
+npm start
+npm i
+npm start
+npm start
+clear
+npm start
+npm start
+npm start
+npm start
+npm start
+git pull
+npm start
+npm i
+npm start
+flutter pub get
+flutter pub get
+flutter pub get
+flutter pub get
+flutter pub get
+flutter clean
+flutter pub get
+flutter clean
+flutter pub get
+npm i
+npx cmake-js compile -T addon.node -B Release
+cd ..
+cd addon.node
+node index.js --language='language' --model='./models/ggml-base.en.bin' --fname_inp='./filepath'
+npx cmake-js compile -T addon.node -B Release
+clear
+cd ..
+npx cmake-js compile -T addon.node -B Release
+clear
+cd ..
+npx cmake-js compile -T addon.node -B Release
+cd examples/addon.node
+node index.js --language='en' --model='./models/ggml-base.en.bin' --fname_inp='./filepath'
+npx cmake-js compile -T addon.node -B Release
+cd ../..
+npx cmake-js compile -T addon.node -B Release
+clear
+npx cmake-js compile -T addon.node -B Release
+npx cmake-js compile -T addon.node -B Release
+clear
+./server -h
+cd examples/server
+./server -h
+cd ..
+./server -h
+sudo ./server -h
+cd ..
+clear
+make server && ./server
+git branch
+clear
+git status
+clear
+flutter clean
+flutter build apk --flavor qa -t lib/main/flavors/qa.dart
+flutter version
+flutter --version
+clear
+flutter pub get
+flutter pub get
+clear
+flutter pub get
+flutter pub get
+flutter clean
+clear
+flutter pub get
+flutter pub get
+flutter --version
+clear
+flutter --version
+clear
+flutter pub get
+flutter clean
+flutter pub get
+flutter clean
+flutter pub get
+flutter clean
+clear
+flutter pub get
+flutter pub get
+flutter pub get
+flutter pub get
+flutter pub get
+flutter pub get
+clear
+flutter pub get
+flutter pub get
+flutter clean
+flutter pub get
+flutter clean
+flutter pub get
+flutter clean
+flutter clean
+flutter pub get
+flutter build apk --flavor qa -t lib/main/flavors/qa.dart
+clear
+flutter build apk --flavor qa -t lib/main/flavors/qa.dart
+adb connect 172.18.2.118:5555
+adb connect 172.18.2.118:5555
+adb connect 172.18.2.53:5555
+clear
+adb connect 172.18.2.53:5555
+clear
+adb connect 172.18.2.118:5555
+clear
+adb shell am broadcast -a android.intent.action.BOOT_COMPLETED
+adb reboot
+adb connect 172.18.2.118:5555
+flutter run
+flutter run apk --flavor qa -t lib/main/flavors/qa.dart
+adb connect 172.18.2.73:5555
+flutter run apk --flavor qa -t lib/main/flavors/qa.dart
+flutter clean
+flutter pub get
+flutter run
+flutter run
+flutter run
+npm install electron -g
+which electron
+sudo ln -s /Users/tce_admin/.nvm/versions/node/v21.5.0/bin/electron /usr/local/bin/electron
+npm i
+npm start
+npm start
+npm start
+npm i
+nvm use 14
+npm i
+open .
+npm start
+npm run dev
+npm i
+npm run dev
+nvm use 14
+npm start
+npm i
+nvm ls
+nvm use v18.20.3
+npm i
+clear
+npm start
+npm install --os=darwin --cpu=arm64 sharp
+npm start
+npm i @tensorflow/tfjs-node
+npm start
+open .
+clear
+mkdir offline-audio-recognition
+cd offline-audio-recognition
+npm init -y
+npm install node-record-lpcm16
+npm install vosk
+code .
+open .
+npx whisper-node download
+node index.js
+npm i
+node index.js
+npm i --save-dev @types/whisper-node
+npm i
+npm install
+npm run dev
+sudo npm install -g --force nodemon
+npm run dev
+npm run dev
+clear
+npm run build
+open example
+node test.js
+cd ..
+mkdir whisper-node-test1
+cd whisper-node-test1
+npm init -y
+npm install whisper-node
+code .
+node app.js
+ls
+clear
+clear
+make stream
+./stream -m ./models/ggml-base.en.bin -t 8 --step 500 --length 5000
+cd electron
+yarn
+clear
+ls
+npm i
+nmv use 14
+npm i
+nmv use 16
+clear
+npm i
+clear
+cd..
+cd ../..
+npx cmake-js compile -T addon.node -B Release
+cd examples
+npx cmake-js compile -T addon.node -B Release
+cmake --help-policy CMP0000
+clear
+cmake --help-policy CMP0000
+clear
+cmake -S whisper.cpp-master -B Release -DWHISPER_CUBLAS=1 -DWHISPER_SDL2=1
+cd addon.node
+npx cmake-js compile -T addon.node -B Release
+npm install extract-zip
+clear
+node index.js
+npm install axios --save
+node index.js
+node index.js
+cd ..
+mkdir whisper-node-app
+cd whisper-node-app
+npm init -y
+npm install whisper-node
+open .
+code .
+ls
+cd ..
+ls
+cd offline-audio-recognition
+code .
+clear
+node index.js
+node index.js
+node index.js
+clear
+node index.js
+node index.js
+clear
+node index.js
+node index.js
+clear
+node index.js
+clear
+node index.js
+brew install sox
+node index.js
+clear
+node index.js
+clear
+node index.js
+npm install mic
+cd ..
+mkdir whisper-electron-app
+cd whisper-electron-app
+npm init -y
+npm install electron express multer dotenv
+python -m venv whisper-env
+sudo python -m venv whisper-env
+mkdir whisper-electron-app/whisper_bin
+mkdir whisper_bin
+oen .
+open .
+npm install electron node-microphone dotenv
+open .
+npm start
+npm start
+npm i
+npm start
+npm start
+cd ..
+npx create-electron-app my-transcriber
+cd my-transcriber
+code .
+clear
+npm install node-microphone
+npm install electron-reload
+npm install child_process
+npm i
+npm start
+open .
+cd examples
+cd addon.node
+npm install
+npx cmake-js compile -T addon.node -B Release
+cd ..
+npx cmake-js compile -T addon.node -B Release
+cd ..
+npx cmake-js compile -T addon.node -B Release
+cd examples/addon.node
+node index.js
+clear
+ls
+npx cmake-js compile -T addon.node -B Release
+cmake --build Release --config release
+cmake --build addon.node --config release
+cmake --build . --config release
+npx cmake-js compile -T addon.node -B Release
+ls
+ls
+node index.js
+cd ..
+cd ..
+make
+open .
+open .
+open mirrors
+npm start
+npm i
+npm i
+clearclear
+clear
+npm i --force
+npm audit fix --force
+npm start
+npm i
+npm start
+npm start
+npx degit sveltejs/template threlte-app\
+cd threlte-app\
+npm install\
+
+code .
+open .
+npm i
+mkdir phy-engine-app
+cd phy-engine-app
+npm init -y
+npm install phy-engine\
+
+node index.js\
+
+node index.js\
+
+npm i
+node index.js
+npm update phy-engine
+npm cache clean --force
+node index.js
+flutter clean
+cd example
+flutter clean
+cd ..
+cd ..
+flutter create my_flutter_app
+cd my_flutter_app
+wget https://golang.org/dl/go1.18.1.linux-amd64.tar.gz
+brew install wget
+wget https://golang.org/dl/go1.18.1.linux-amd64.tar.gz
+tar -xvf go1.18.1.linux-amd64.tar.gz
+sudo mv go /usr/local
+export PATH=$PATH:/usr/local/go/bin
+code .
+ping 172.18.2.25
+npm start
+npm i
+clear
+npm i
+npm update --save
+npm i
+clear
+npm update --save
+npm i -g npm-check-updates
+ncu -u
+ncu -u
+npm i
+code .
+npm install @threlte/core three
+clear
+npm install @threlte/core three
+npm run dev
+npm install @threlte/core three\
+
+npm cache clean --force
+clear
+npm cache clean --force
+sudo chown -R 501:20 "/Users/tce_admin/.npm"
+npm cache clean --force
+npm install --legacy-peer-deps\
+
+npm install --legacy-peer-deps\
+
+npm outdated\
+npm update\
+
+npm run dev
+rm -rf node_modules package-lock.json
+npm install\
+
+npm install --global yarn\
+
+yarn install\
+
+npm install @threlte/core @threlte/extras cannon-es three\
+
+npm install @threlte/core
+npm run dev
+npm install @threlte/core @threlte/extras cannon-es three --force
+npm run dev
+npm run dev
+npm install @threlte/components\
+
+npm cache clean --force\
+
+npm install --legacy-peer-deps\
+
+rm -rf node_modules package-lock.json\
+
+npm install\
+
+npm install --global yarn
+yarn install\
+
+yarn install\
+
+open .
+git clone https://github.com/ggerganov/whisper.cpp.git
+cd whisper.cpp
+mkdir build
+cd build
+cmake ..
+make
+cd ..
+mkdir -p models
+ls
+open .
+clear
+wget -P models https://huggingface.co/ggerganov/whisper.cpp/resolve/main/ggml-base.en.bin
+./main -m models/ggml-base.en.bin -f samples/jfk.wav
+cd build
+./main -m models/ggml-base.en.bin -f samples/jfk.wav
+ls
+./bin/main -m models/ggml-base.en.bin -f samples/jfk.wav
+cd ..
+./build/bin/main -m models/ggml-base.en.bin -f samples/jfk.wav
+open .
+clear
+./build/bin/main -m models/ggml-base.en.bin -f samples/jfk.wav
+./build/bin/main -m models/ggml-base.en.bin -f samples/jfk.wav
+clear
+ls
+./build/bin/main -m models/ggml-base.en.bin -f samples/jfk.wav
+npm start
+npm start
+cd ..
+ls
+npm start
+npm start
+npm start
+clear
+npm start
+npm start
+npm start
+npm i
+npm start
+npm start
+npm start
+clear
+npm start
+clear
+npm start
+clear
+clear
+npm start
+npm start
+clear
+npm start
+npm start
+npm start
+npm start
+npm start
+npm start
+npm i
+npm start
+npm start
+npm start
+clear
+npm start
+npm start
+git oull
+git pull
+npm start
+cd golang_server
+go mod init golang_server
+sudo mv go /usr/local
+export PATH=$PATH:/usr/local/go/bin
+go mod init golang_server
+GOOS=android GOARCH=arm64 go build -o server main.go
+wget
+clear
+cd ..
+cd ..
+flutter create my_flutter_app2
+cd my_flutter_app2
+clear
+wget https://golang.org/dl/go1.18.1.linux-amd64.tar.gz
+code .
+/usr/local/go/bin/go ; exit;
+clear
+./compile.sh
+sudo ./compile.sh
+sudo ./compile
+sudo compile
+sh compile
+sh ./compile
+sh ./compile.sh
+GOOS=android GOARCH=arm64 go build -o server main.go
+clear
+GOOS=android GOARCH=arm64 go build -o server main.go
+go env
+tar -xvf go1.18.1.linux-amd64.tar.gz
+sudo mv go /usr/local
+export PATH=$PATH:/usr/local/go/bin
+go env
+clear
+go env
+GOOS=android GOARCH=arm64 go build -o server main.go
+which go
+clear
+which go
+go
+cd /usr/local/go/bin/go
+cd /usr/local/go/bin/go
+cd /usr/local/go/bin/
+go env
+go
+ls
+open .
+cclear
+clear
+which go
+go
+ls
+./go
+go env
+go
+go version
+export PATH=$PATH:/usr/local/go/bin
+export GOPATH=$HOME/go
+export PATH=$PATH:$GOPATH/bin
+source ~/.zshrc
+source ~/.bashrc
+go version
+echo $PATH
+flutter create .
+source ~/.zshrc
+go
+which go
+wget https://golang.org/dl/go1.18.1.linux-amd64.tar.gz
+clear
+open .
+tar -xvf go1.18.1.linux-amd64.tar.gz
+tar -xvf go1.18.1.linux-amd64.tar.gz
+sudo mv go /usr/local
+open .
+which go
+export PATH=$PATH:/usr/local/go/bin
+which go
+go
+tar -xvf go1.22.4.darwin-arm64
+which go
+go version
+clear
+GOOS=android GOARCH=arm64 go build -o server main.go
+export PATH=$PATH:/usr/local/go/bin
+export GOPATH=$HOME/go
+export PATH=$PATH:$GOPATH/bin
+source ~/.bash_profile
+go version
+mkdir -p android/app/src/main/assets
+mv server android/app/src/main/assets/
+mkdir android/app/src/main/java/com/example/my_flutter_app
+mkdir -p android/app/src/main/java/com/example/my_flutter_app
+flutter build apk
+flutter install
+flutter run
+open .
+open .
+open .
+GOOS=android GOARCH=arm64 go build -o server main.go
+GOOS=android GOARCH=arm64 go build -o server main.go
+mv server android/app/src/main/assets/
+mkdir -p android/app/src/main/java/com/example/my_flutter_app
+mkdir -p android/app/src/main/assets
+mv server android/app/src/main/assets/
+clear
+brew install sqlite3
+sqlite3 products.db
+sqlite3 products.db
+mkdir golang_server\
+cd golang_server\
+go mod init golang_server\
+
+go get github.com/mattn/go-sqlite3\
+
+go run main.go\
+
+go run main.go\
+
+flutter doctor
+flutter clean
+flutter build apk
+flutter pub get
+flutter run
+flutter run
+go run main.go\
+
+flutter build apk
+cd golang_server
+GOOS=android GOARCH=arm64 go build -o ../my_flutter_app/android/app/src/main/assets/server main.go
+cp products.db ../my_flutter_app/android/app/src/main/assets/
+ls
+ls
+cp products.db ../my_flutter_app/android/app/src/main/assets/
+cd ../my_flutter_app
+flutter build apk
+ls
+cd ..
+ls
+flutter run
+flutter devices
+clear
+flutter devices
+flutter run
+go run main.go
+cd golang_server
+go run main.go
+clear
+ls
+GOOS=android GOARCH=arm64 go build -o server main.go
+cd ..
+GOOS=android GOARCH=arm64 go build -o main my_go_server/main.go
+GOOS=android GOARCH=arm64 go build -o main golang_server/main.go
+cd golang_server
+GOOS=android GOARCH=arm64 go build -o main main.go
+adb connect 192.168.1.36:38795
+adb connect 192.168.1.36:5555
+adb connect 192.168.1.36:5555
+adb connect 192.168.1.36:5555
+adb connect 192.168.1.36
+adb connect 192.168.1.36:5555
+adb connect 192.168.1.36:5555
+adb tcpip 5555
+adb shell ip -f inet addr show wlan0
+adb connect 192.168.1.100:5555
+adb connect 192.168.1.36:5555
+adb kill-server
+adb start-server
+adb connect 192.168.1.36:5555
+adb shell
+adb shell
+adb shell
+adb shell
+clear
+adb shell
+adb shell
+ls
+cat pkp.txt
+cat pkp.txt
+adb shell
+adb shell
+adb shell am start -n com.example.my_flutter_app/.MainActivity
+adb shell am start -n com.example.my_flutter_app/.MainActivity
+adb shell am start -n com.example.my_flutter_app/.MainActivity
+adb shell am start -n com.example.my_flutter_app/.MainActivity
+adb shell am start -n com.example.my_flutter_app/.MainActivity
+adb shell am start -n com.example.my_flutter_app/.MainActivity
+flutter build apk
+adb shell
+git pull
+clear
+nvm ls
+nvm use v18.20.3
+npm start
+clear
+npm start
+npm i
+npm start
+npm rebuild @tensorflow/tfjs-node --build-addon-from-source
+npm start
+clear
+npm start
+clear
+npm start
+npm start
+npm run dist:mac
+open dist
+npm run dist:win64
+open dist
+git log
+open .
+adb shell
+adb devices
+adb -s emulator-5554 shell
+adb shell
+adb root
+adb devices
+adb root
+clear
+git pull
+git log
+clear
+git pull
+git pull main
+flutter devices
+clear
+cd golang_server
+GOOS=android GOARCH=arm64 go build -o main main.go
+adb -s emulator-5554 push main /data/local/tmp
+clesr
+clear
+go build -o server main.go
+ls
+./server
+GOOS=android GOARCH=arm64 go build -o main main.go
+adb -s emulator-5554 push main /data/local/tmp
+adb -s emulator-5554 push products.db /data/local/tmp
+CGO_ENABLED=1 GOOS=android GOARCH=arm64 CC=$CC CXX=$CXX go build -o main main.go
+CGO_ENABLED=1 GOOS=android GOARCH=arm64 go build -o main main.go
+CGO_ENABLED=1 GOOS=android GOARCH=arm64 go build -o main
+ls
+go build -o server main.go
+./server
+go build -o server main.go
+./server
+GOOS=android GOARCH=arm64 go build -o main main.go
+adb -s emulator-5554 push main /data/local/tmp
+adb -s emulator-5554 push main /data/local/polites
+adb -s emulator-5554 push main /data/local/polites
+adb -s emulator-5554 push main /data/local/polites
+clear
+open .
+ls
+clear
+ls
+flutter devices
+flutter emulators
+adb shell
+cd ..
+clear
+gomobile bind -target=android .
+cd ..
+mkdir mygoproject
+cd mygoproject
+go mod init mygoproject
+mkdir server
+code .
+clear
+git pull
+go install golang.org/x/mobile/cmd/gomobile@latest
+gomobile init
+go install golang.org/x/mobile/cmd/gomobile@latest
+gomobile init
+code ~/.bashrc
+code ~/.zshrc
+source ~/.zshrc
+clear
+source ~/.zshrc
+gomobile init
+gomobile version
+go install golang.org/x/mobile/cmd/gomobile@latest
+gomobile version
+cd ..
+cdc my_flutter_app
+ls
+mkdir goserv
+cd goserv
+go mod init mygoproject
+ls
+ls
+cd ..
+ls
+open .
+clear
+cd goserv
+go get golang.org/x/mobile/cmd/gomobile
+gomobile init
+code .
+cd ..
+flutter create my_flutter_go_app
+ls
+cd ..
+clear
+git log
+clear
+open .
+gomobile bind -target=android ./server
+clear
+gomobile bind -target=android ./server
+export GO111MODULE=on
+go get -u golang.org/x/mobile/cmd/gomobile
+go get -u golang.org/x/mobile/bind
+go list -m golang.org/x/mobile
+go list -m golang.org/x/mobile/bind
+gomobile version
+mkdir -p $GOPATH/src/golang.org/x
+cd $GOPATH/src/golang.org/x
+git clone https://go.googlesource.com/mobile
+cd mobile
+go install ./cmd/gomobile
+gomobile init
+gomobile bind -target=android ./server
+clear
+go version
+go env
+open .
+gomobile bind -target=android ./server
+open .
+gomobile bind -target=android ./server
+gomobile bind -target=android ./server/
+open 
+open .
+clear
+gomobile bind -target=android ./server/
+ls
+gomobile bind -target=android ./server
+unzip -l libserver.aar
+open .
+gomobile bind -target=android ./server/
+unzip -l server.aar
+adb logcat
+clear
+open .
+gomobile bind -target=android -o libserver.aar ./server
+unzip -l libserver.aar
+gomobile bind -target=android -o libserver.so ./server
+clear
+gomobile bind -target=android -o libserver.so ./server
+gomobile bind -target=android -o libserver ./server
+gomobile bind -target=android -o server.so ./server
+clear
+gomobile help bind
+clear
+gomobile bind -target=android -o libserver.aar -javapkg server ./server
+clear
+unzip -l libserver.aar
+open .
+clear
+gomobile bind -target=android ./gojni/
+unzip -l gojni.aar
+clear
+unzip -l gojni.aar
+open .
+gomobile bind -target=android ./gojni/
+open .
+gomobile bind -target=android ./gojni/
+gomobile bind -target=android -o /Users/tce_admin/projects/polites/goserverapp/app/libs/gojni.aar ./gojni
+gomobile bind -target=android -o /Users/tce_admin/projects/polites/goserverapp/app/libs/gojni.aar ./gojni
+gomobile bind -target=android -o /Users/tce_admin/projects/polites/goserverapp/app/libs/gojni.aar ./gojni
+gomobile bind -target=android -o /Users/tce_admin/projects/polites/goserverapp/app/libs/gojni.aar ./gojni
+gomobile bind -target=android -o /Users/tce_admin/projects/polites/goserverapp/app/libs/gojni.aar ./gojni
+gomobile bind -target=android -o /Users/tce_admin/projects/polites/goserverapp/app/libs/gojni.aar ./gojni
+gomobile bind -target=android -o /Users/tce_admin/projects/polites/goserverapp/app/libs/gojni.aar ./gojni
+clear
+go get -u github.com/gofiber/fiber/v2
+clear
+gomobile bind -target=android -o /Users/tce_admin/projects/polites/goserverapp/app/libs/gojni.aar ./gojni
+gomobile bind -target=android -o /Users/tce_admin/projects/polites/goserverapp/app/libs/gojni.aar ./gojni
+gomobile bind -target=android -o /Users/tce_admin/projects/polites/goserverapp/app/libs/gojni.aar ./gojni
+gomobile bind -target=android -o /Users/tce_admin/projects/polites/goserverapp/app/libs/gojni.aar ./gojni
+gomobile bind -target=android -o /Users/tce_admin/projects/polites/goserverapp/app/libs/gojni.aar ./gojni
+gomobile bind -target=android -o /Users/tce_admin/projects/polites/goserverapp/app/libs/gojni.aar ./gojni
+clear
+adb shell
+chmod +x /sdcard/Download
+chmod +x /sdcard/Download
+adb shell
+open .
+clear
+git pull
+git fetch
+cd .
+open .
+clear
+gomobile bind -target=android -o /Users/tce_admin/projects/polites/goserverapp/app/libs/gojni.aar ./gojni
+clear
+gomobile bind -target=android -o /Users/tce_admin/projects/polites/goserverapp/app/libs/gojni.aar ./gojni
+clear
+gomobile bind -target=android ./gojni
+clear
+gomobile bind -target=android ./gojni
+clear
+gomobile bind -target=android ./gojni
+gomobile bind -target=android ./gojni
+clear
+gomobile bind -target=android ./gojni
+gomobile bind -target=android ./gojni
+clear
+gomobile bind -target=android ./gojni
+clear
+gomobile bind -target=android ./gojni
+clear
+gomobile bind -target=android -o /Users/tce_admin/projects/polites/goserverapp/app/libs/gojni.aar ./gojni
+gomobile bind -target=android -o /Users/tce_admin/projects/polites/goserverapp/app/libs/gojni.aar ./gojni
+gomobile bind -target=android -o /Users/tce_admin/projects/polites/goserverapp/app/libs/gojni.aar ./gojni
+gomobile bind -target=android -o /Users/tce_admin/projects/polites/goserverapp/app/libs/gojni.aar ./gojni
+open .
+gomobile bind -target=android -o /Users/tce_admin/projects/polites/goserverapp/app/libs/gojni.aar ./gojni
+gomobile bind -target=android -o /Users/tce_admin/projects/polites/goserverapp/app/libs/gojni.aar ./gojni
+gomobile bind -target=android -o /Users/tce_admin/projects/polites/goserverapp/app/libs/gojni.aar ./gojni
+gomobile bind -target=android -o /Users/tce_admin/projects/polites/goserverapp/app/libs/gojni.aar ./gojni
+gomobile bind -target=android -o /Users/tce_admin/projects/polites/goserverapp/app/libs/gojni.aar ./gojni
+gomobile bind -target=android -o /Users/tce_admin/projects/polites/goserverapp/app/libs/gojni.aar ./gojni
+gomobile bind -target=android -o /Users/tce_admin/projects/polites/goserverapp/app/libs/gojni.aar ./gojni
+clear
+gomobile bind -target=android -o /Users/tce_admin/projects/polites/goserverapp/app/libs/gojni.aar ./gojni
+clear
+gomobile bind -target=android -o /Users/tce_admin/projects/polites/goserverapp/app/libs/gojni.aar ./gojni
+gomobile bind -target=android -o /Users/tce_admin/projects/polites/goserverapp/app/libs/gojni.aar ./gojni
+clear
+gomobile bind -target=android -o /Users/tce_admin/projects/polites/goserverapp/app/libs/gojni.aar ./gojni
+gomobile bind -target=android -o /Users/tce_admin/projects/polites/goserverapp/app/libs/gojni.aar ./gojni
+gomobile bind -target=android -o /Users/tce_admin/projects/polites/goserverapp/app/libs/gojni.aar ./gojni
+gomobile bind -target=android -o /Users/tce_admin/projects/polites/goserverapp/app/libs/gojni.aar ./gojni
+gomobile bind -target=android -o /Users/tce_admin/projects/polites/goserverapp/app/libs/gojni.aar ./gojni
+clear
+gomobile bind -target=android -o /Users/tce_admin/projects/polites/goserverapp/app/libs/gojni.aar ./gojni
+gomobile bind -target=android -o /Users/tce_admin/projects/polites/goserverapp/app/libs/gojni.aar ./gojni
+clear
+gomobile bind -target=android -o /Users/tce_admin/projects/polites/goserverapp/app/libs/gojni.aar ./gojni
+gomobile bind -target=android -o /Users/tce_admin/projects/polites/goserverapp/app/libs/gojni.aar ./gojni
+gomobile bind -target=android -o /Users/tce_admin/projects/polites/goserverapp/app/libs/gojni.aar ./gojni
+clear
+go run main.go
+go get gopkg.in/yaml.v2
+clear
+go get gopkg.in/yaml.v2
+go mod init test1
+go get gopkg.in/yaml.v2
+clear
+go run main.go
+clear
+git pull
+unzip -l libserver.aar
+unzip -l gojni.aar
+clear
+gomobile bind -target=android -o /Users/tce_admin/projects/polites/goserverapp/app/libs/gojni.aar ./gojni
+gomobile bind -target=android -o /Users/tce_admin/projects/polites/goserverapp/app/libs/gojni.aar ./gojni
+gomobile bind -target=android -o /Users/tce_admin/projects/polites/goserverapp/app/libs/gojni.aar ./gojni
+gomobile bind -target=android -o /Users/tce_admin/projects/polites/goserverapp/app/libs/gojni.aar ./gojni
+clear
+open .
+gomobile bind -target=android -o /Users/tce_admin/projects/polites/goserverapp/app/libs/gojni.aar ./gojni
+unzip -l gojni.aar
+gomobile bind -target=android -o /Users/tce_admin/projects/polites/goserverapp/app/libs/gojni.aar ./gojni
+clear
+open .
+clear
+gomobile bind -target=android -o /Users/tce_admin/projects/polites/goserverapp/app/libs/gojni.aar ./gojni
+clear
+gomobile bind -target=android -o /Users/tce_admin/projects/flutters/cepolite/android/app/libs/gojni.aar ./gojni
+go
+gomobile
+clear
+gomobile bind -target=android -o /Users/tce_admin/projects/flutters/cepolite/android/app/libs/gojni.aar ./gojni
+gomobile bind -target=android -o /Users/tce_admin/projects/flutters/cepolite/android/app/libs/gojni.aar ./gojni
+clear
+git pull
+git pull
+npm i
+node start.mjs
+open .
+clear
+node start.mjs
+python -v
+python --version
+python
+type python
+python3 --version\
+\
+
+python3 -m venv ./venv
+clear
+python3 -m venv ./venv
+pip -v
+pip3 -v
+pip3 install -r requirements.txt
+ python3 -m pip install --upgrade pip
+clear
+python3 -m pip install --upgrade pip
+python3.12 -m pip install --upgrade pip
+brew install python3.9
+brew install python@3.9
+clear
+python3.9 -m venv ./venv
+pip install -r requirements.txt
+pip3 install -r requirements.txt
+pip3.9
+pip3.9 install -r requirements.txt
+pip3.9 freeze
+clear
+pip3.9 freeze
+/usr/bin/python3 /Users/tce_admin/.vscode/extensions/ms-python.python-2024.10.0-darwin-arm64/python_files/printEnvVariablesToFile.py /Users/tce_admin/.vscode/extensions/ms-python.python-2024.10.0-darwin-arm64/python_files/deactivate/zsh/envVars.txt
+pip3.9 freeze
+pip3.9 install -r requirements.txt
+pip
+pip3
+clear
+pip3 -v
+clear
+pip -v
+clear
+pip3.9 install ultralytics ; pip3.9 install torch ; pip3.9 install numpy
+clear
+/usr/bin/python3 /Users/tce_admin/.vscode/extensions/ms-python.python-2024.10.0-darwin-arm64/python_files/printEnvVariablesToFile.py /Users/tce_admin/.vscode/extensions/ms-python.python-2024.10.0-darwin-arm64/python_files/deactivate/zsh/envVars.txt
+node start.mjs
+clear
+/usr/bin/python3 /Users/tce_admin/.vscode/extensions/ms-python.python-2024.10.0-darwin-arm64/python_files/printEnvVariablesToFile.py /Users/tce_admin/.vscode/extensions/ms-python.python-2024.10.0-darwin-arm64/python_files/deactivate/zsh/envVars.txt
+flutter pub get
+flutter run
+flutter pub get
+flutter clean
+clear
+openssl enc -aes-256-cbc -salt -in my3.mp4 -out my3enc.mp4 -pass pass:yourpassword
+openssl enc -aes-256-cbc -pbkdf2 -salt -in my3.mp4 -out encrypted.mp4 -pass pass:yourpassword
+flutter run
+clear
+git pull
+git pull
+git pull
+clear
+git pull
+clear
+flutter pub get
+clear
+git pull
+adb pair 192.168.1.36:41093
+adb connect 192.168.1.36:41093
+adb connect 192.168.1.36:41093
+adb connect 192.168.1.36:42943
+adb connect 192.168.1.36:42943
+adb pair 192.168.1.36:41879
+git pull
+git pull
+git pull
+git pull
+clear
+go build gopro.go
+cd code/server
+go build gopro.go
+./gopro
+go run
+go run gopro.go
+go run gopro.go
+clear
+clear
+clear
+go run gopro.go
+clear
+git log
+git pull
+clear
+cd code/server
+go run gopro.go
+go run gopro.go
+clear
+cd ..
+cd ..
+cd gojni
+go run gopro.go
+go run gojni.go
+go run gojni.go
+go run gojni.go
+go run gojni.go
+go run gojni.go
+go run gojni.go
+go run gojni.go
+clear
+open .
+cd ..
+cd code/server
+clear
+ls
+go run gopro.go
+clear
+cd ../../gojni_code
+ls
+clear
+gomobile bind -target=android -o /Users/tce_admin/projects/flutters/cepolite/android/app/libs/gojni.aar ./gojni
+open .
+adb connect 172.18.2.65:5555
+adb connect 172.18.2.65:5555
+adb connect 172.18.2.65:5555
+adb connect 172.18.2.65:5555
+adb connect 172.18.2.65:5555
+adb connect 172.18.2.65:5555
+npm start
+npm start
+npm start
+npm start
+npm start
+npm start
+npm start
+git pull
+cleae
+clear
+git pull
+adb connect 172.18.2.65:5555
+adb connect 172.18.1.14:5555
+adb connect 192.168.1.14:5555
+git pull
+git branch
+clear
+git pull
+git pull
+adb connect 192.168.1.14:5555
+clear
+git branch
+git pull
+git status
+open .
+git pull
+cd code/server
+cd code/server
+cd code/server
+cd code/server
+cd code/server
+node -v
+npm start
+firebase serve
+clear
+firebase serve
+git pull
+firebase serve
+firebase serve --only hosting --port=5002
+firebase serve --only hosting --port=5002
+firebase serve --only hosting --port=5002
+firebase serve --only hosting --port=5002
+firebase serve --only hosting --port=5002
+firebase serve --only hosting --port=5002
+firebase serve --only hosting --port=5002
+firebase serve --only hosting --port=5002
+firebase serve --only hosting --port=5002
+firebase serve --only hosting --port=5002
+firebase serve --only hosting --port=5002
+firebase serve --only hosting --port=5002
+firebase serve --only hosting --port=5002
+firebase serve --only hosting --port=5002
+firebase serve --only hosting --port=5002
+firebase deploy --only hosting:tce-limited -m "Deploying campaign4 v1 with dynamic url created"
+firebase deploy --only hosting:tce-limited -m "Deploying campaign4 v1 with dynamic url created"
+firebase deploy --only hosting:tce-limited -m "Deploying campaign4 v1 with dynamic url created"
+firebase init
+firebase use classedge-limited
+firebase login
+firebase logout
+firebase login
+firebase use classedge-limited
+firebase deploy --only hosting:tce-limited -m "Deploying campaign4 v1 with dynamic url created"
+firebase deploy --only hosting:classedge-limited -m "Deploying campaign4 v1 with dynamic url created"
+firebase deploy --only hosting:classedge-limited -m "Deploying campaign4 v1 with dynamic url created"
+firebase serve --only hosting --port=5002
+firebase logout
+firebase login
+firebase serve --only hosting --port=5002
+firebase serve --only hosting --port=5002
+firebase use ce6-platinum
+firebase serve --only hosting --port=5002
+firebase serve --only hosting --port=5002
+node -v
+git pull
+clear
+git pull
+git pull
+git pull
+pip install pandas
+git pull
+firebase serve --only hosting --port=5002
+git pull
+git pull
+cd ..
+open .
+npm install -g ionic@1
+ionic --version
+open .
+clear
+npm install -g ionic@1
+npm i @ionic/v1-toolkit
+npm install -g @ionic/cli
+ionic start myApp blank --type ionic1
+clear
+npm install -g @ionic/cli
+npm install -g @ionic/cli --force
+clear
+ionic --version
+ionic start myApp blank --type ionic1
+ionic start --list
+ionic --version
+ionic start myApp blank --type ionic1
+ionic start myApp blank --v1
+ionic start myApp blank --v1
+ionic start myApp blank --type=v1
+npm i -g ionic@latest\
+
+node -v
+clear
+ionic --version
+ionic start myApp blank --type=ionic1
+ionic start myApp blank --v1
+ionic start myApp blank --type=ionic1
+ionic start myApp blank --type=ionicv1
+ionic start myApp tabs --type ionic1
+npm install -g cordova
+npm install -g electron
+cordova create myApp com.pkp.myapp MyApp
+cd myApp
+code .
+adb connect 172.18.2.73:5555
+adb connect 172.18.2.73:5555
+ping 172.18.2.73
+ping 172.18.2.739
+adb connect 172.18.2.159:5555
+ping 172.18.2.159
+adb connect 172.18.2.159:5555
+adb devices
+adb connect 172.18.2.159:5555
+adb connect 172.18.2.159:5555
+adb devices
+git pull
+git pull
+adb connect 172.18.2.65:5555
+adb connect 172.18.2.65:5555
+npm start
+npm start
+adb connect 172.18.2.65:5555
+ping 172.18.2.34
+clear
+adb connect 172.18.2.34:5555
+adb connect 172.18.2.159:5555
+adb connect 172.18.2.34:5555
+adb devices
+cordova platform add android
+cordova platform add electron
+git init
+cordova build android
+cordova build electron
+rustup update
+rustup target add aarch64-linux-android armv7-linux-androideabi i686-linux-android x86_64-linux-android\
+
+./gradlew buildCargoNdkDebug --info
+clear
+./gradlew buildCargoNdkDebug --info
+./gradlew buildCargoNdkDebug --info --stacktrace
+./gradlew clean
+./gradlew build
+clear
+rustup update
+rustup target add aarch64-linux-android armv7-linux-androideabi i686-linux-android x86_64-linux-android
+cargo install cargo-ndk
+cargo install cargo-apk
+rustup target add aarch64-linux-android
+cargo apk build --release
+cargo apk build --release
+cargo apk build --release
+$ANDROID_HOME/ndk-bundle/ndk-build --version
+which ndk
+code ~/.zshrc
+export ANDROID_NDK_ROOT=$ANDROID_HOME/sdk/ndk
+export PATH=$PATH:$ANDROID_NDK_ROOT
+source ~/.zshrc
+echo %ANDROID_NDK_ROOT%
+echo $ANDROID_NDK_ROOT
+./gradlew build
+cargo apk build --release
+clear
+cargo apk build --release
+echo $ANDROID_NDK_ROOT 
+echo $ANDROID_NDK_ROOT 
+echo $ANDROID_NDK_ROOT
+export PATH=$PATH:$ANDROID_NDK_ROOT
+echo $ANDROID_NDK_ROOT
+source ~/.zshrc
+echo $ANDROID_NDK_ROOT
+cargo apk build --release
+clear
+cargo apk build --release
+ls $ANDROID_NDK_ROOT/source.properties
+echo $ANDROID_NDK_ROOT
+source ~/.zshrc
+echo $ANDROID_NDK_ROOT
+cargo apk build --release
+echo $ANDROID_NDK_ROOT
+source ~/.zshrc
+echo $ANDROID_NDK_ROOT
+ls $ANDROID_NDK_ROOT/source.properties
+cargo apk build --release
+ls /Users/tce_admin/Library/Android/sdk/ndk/27.0.12077973/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang
+export NDK_ROOT=/Users/tce_admin/Library/Android/sdk/ndk/27.0.12077973
+export PATH=$PATH:$NDK_ROOT/toolchains/llvm/prebuilt/darwin-x86_64/bin
+source ~/.zshrc
+sdkmanager --update
+./gradlew clean
+sdkmanager --update
+ls /Users/tce_admin/Library/Android/sdk/cmdline-tools/latest/bin/sdkmanager
+source ~/.zshrc
+echp $PATH
+echo $PATH
+ls /Users/tce_admin/Library/Android/sdk/cmdline-tools/latest/bin/sdkmanager
+sdkmanager --update
+clear
+sdkmanager --update
+brew install openjdk@17
+sdkmanager --update
+export SKIP_JDK_VERSION_CHECK=true
+sdkmanager --update
+java -version
+sdkmanager --update
