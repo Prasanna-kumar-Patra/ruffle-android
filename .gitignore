@@ -1,12 +1,12 @@
 *.iml
 .gradle
-/local.properties
+# /local.properties
 .idea
 .DS_Store
 /build
 /captures
 .externalNativeBuild
 .cxx
-local.properties
+# local.properties
 /target
 *.jks
