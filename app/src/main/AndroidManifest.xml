@@ -25,6 +25,11 @@
             </intent-filter>
         </activity>
         <activity
+            android:name=".PanicActivity"
+            android:launchMode="singleTask"
+            android:exported="false">
+        </activity>
+        <activity
             android:name=".PlayerActivity"
             android:exported="true"
             android:configChanges="orientation|keyboardHidden|screenSize"
@@ -49,8 +54,8 @@
 
                 <data android:mimeType="application/x-shockwave-flash"/>
 
-                <data android:pathSuffix="swf" />
-                <data android:pathPattern="*.swf" />
+                <data android:host="*" />
+                <data android:pathPattern=".*.swf" />
             </intent-filter>
 
             <intent-filter>

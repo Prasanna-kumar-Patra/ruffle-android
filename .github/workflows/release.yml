@@ -6,14 +6,14 @@ on:
 jobs:
     make-release:
         name: Make Release
-        runs-on: ubuntu-22.04
+        runs-on: ubuntu-latest
 
         steps:
           - uses: actions/checkout@v4
 
           - name: Download artifacts
             id: download-artifacts
-            uses: dawidd6/action-download-artifact@v6
+            uses: dawidd6/action-download-artifact@v7
             with:
               workflow: build.yml
               branch: main
